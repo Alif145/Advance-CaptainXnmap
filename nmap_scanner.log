@@ -1,0 +1,12 @@
+2025-02-27 06:07:59,716 - ERROR - Invalid IP address or hostname entered: www.india.gov.in
+2025-02-27 06:08:10,302 - INFO - Script terminated by user.
+2025-03-15 16:49:09,566 - ERROR - Invalid IP address or hostname entered: 
+2025-03-15 16:50:19,317 - ERROR - Invalid IP address or hostname entered: www.india.gov.in
+2025-03-15 16:50:29,122 - ERROR - Invalid IP address or hostname entered: india.gov.in
+2025-03-15 16:51:21,290 - INFO - Scanning target: 1.1.1.1 with option 3
+2025-03-15 16:51:21,290 - INFO - Running command: nmap -Pn -sU -sV -p 1-1024 1.1.1.1
+2025-05-17 01:01:06,510 - ERROR - Invalid IP address or hostname entered: www.kushtia.polytech.gov.bd
+2025-05-17 01:01:11,687 - ERROR - Invalid IP address or hostname entered: www.kushtia.polytech.gov.bd
+2025-05-17 01:01:40,781 - INFO - Scanning target: 104.21.48.1 with option 6
+2025-05-17 01:01:40,782 - INFO - Running command: nmap -Pn --script vuln 104.21.48.1
+2025-05-17 01:10:33,623 - INFO - Scan completed successfully.
